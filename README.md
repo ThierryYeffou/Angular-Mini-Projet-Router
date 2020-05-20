@@ -1,2 +1,2 @@
 # Angular-Mini-Projet-Router
-user Router and component in angular
+use Router and component in angular
